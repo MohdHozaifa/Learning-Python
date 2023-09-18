@@ -1,0 +1,32 @@
+a = 1245432572093547823754
+print(a)
+print("The type of a is ", type(a))
+
+b = "Hozaifa"
+print(b)
+print("The type of b is ", type(b))
+
+c = True
+print(c)
+print("The type of c is ", type(c))
+
+d = None
+print(d)
+print("The type of d is ", type(d))
+
+e = complex(8, 2)
+print(e)
+print("The type of e is ", type(e))
+
+
+list1 = [8, 2.3, [-4, 5], ["apple", "banana"]]
+print(list1)
+print(type(list1))
+
+tuple1 = (("parrot", "sparrow"), ("Lion", "Tiger"))
+print(tuple1)
+print(type(tuple1))
+
+dict1 = {"name":"Sakshi", "age":20, "canVote":True}
+print(dict1)
+print(type(dict1))
